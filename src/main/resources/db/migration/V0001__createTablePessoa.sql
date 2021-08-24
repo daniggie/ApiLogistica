@@ -3,6 +3,6 @@ CREATE TABLE pessoas(
     nome varchar(100) not null,
     email varchar(100) not null,
     senha varchar(60) not null,
-    perfil varchar(10) not null,
+    perfil varchar(5) not null,
     primary key (codigo)
 );

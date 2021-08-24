@@ -1,1 +1,0 @@
-INSERT INTO perfil VALUES ("ROLE_ADMIN"), ("ROLE_USER");
